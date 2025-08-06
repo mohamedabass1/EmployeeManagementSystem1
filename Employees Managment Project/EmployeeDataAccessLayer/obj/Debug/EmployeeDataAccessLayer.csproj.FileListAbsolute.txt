@@ -1,0 +1,6 @@
+C:\Users\hp\Desktop\Employees Managment Project\EmployeeDataAccessLayer\bin\Debug\EmployeeDataAccessLayer.dll
+C:\Users\hp\Desktop\Employees Managment Project\EmployeeDataAccessLayer\bin\Debug\EmployeeDataAccessLayer.pdb
+C:\Users\hp\Desktop\Employees Managment Project\EmployeeDataAccessLayer\obj\Debug\EmployeeDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Employees Managment Project\EmployeeDataAccessLayer\obj\Debug\EmployeeDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Employees Managment Project\EmployeeDataAccessLayer\obj\Debug\EmployeeDataAccessLayer.dll
+C:\Users\hp\Desktop\Employees Managment Project\EmployeeDataAccessLayer\obj\Debug\EmployeeDataAccessLayer.pdb

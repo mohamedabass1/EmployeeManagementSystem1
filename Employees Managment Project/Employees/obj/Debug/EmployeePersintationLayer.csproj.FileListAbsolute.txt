@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Employees Managment Project\Employees\bin\Debug\Employees.exe.config
+C:\Users\hp\Desktop\Employees Managment Project\Employees\bin\Debug\Employees.exe
+C:\Users\hp\Desktop\Employees Managment Project\Employees\bin\Debug\Employees.pdb
+C:\Users\hp\Desktop\Employees Managment Project\Employees\bin\Debug\EmployeeBusinessLaye.dll
+C:\Users\hp\Desktop\Employees Managment Project\Employees\bin\Debug\EmployeeDataAccessLayer.dll
+C:\Users\hp\Desktop\Employees Managment Project\Employees\bin\Debug\EmployeeBusinessLaye.pdb
+C:\Users\hp\Desktop\Employees Managment Project\Employees\bin\Debug\EmployeeDataAccessLayer.pdb
+C:\Users\hp\Desktop\Employees Managment Project\Employees\obj\Debug\EmployeePersintationLayer.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Employees Managment Project\Employees\obj\Debug\EmployeePersintationLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\Employees Managment Project\Employees\obj\Debug\EmployeePersintationLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Employees Managment Project\Employees\obj\Debug\EmployeePersintationLayer.csproj.CopyComplete
+C:\Users\hp\Desktop\Employees Managment Project\Employees\obj\Debug\Employees.exe
+C:\Users\hp\Desktop\Employees Managment Project\Employees\obj\Debug\Employees.pdb
